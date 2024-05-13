@@ -47,3 +47,7 @@ The Bankist project consists of three main files:
 ## Conclusion
 
 Bankist provides a comprehensive yet simplified banking experience, allowing users to perform essential banking operations seamlessly. With its intuitive user interface and robust functionality, it serves as an effective tool for understanding banking concepts and practicing financial transactions.
+
+## Note 
+Payment Gateway integration and the backend part is yet too come in this project with some more functionalities.
+Stay Tuned..........
